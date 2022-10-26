@@ -15,4 +15,13 @@ class PagesController extends Controller
     public function search(){
         return view('pages.search');
     }
+    public function jobPost(){
+        return view('pages.jobPost');   
+    }
+    public function apply(){
+        return view('pages.apply');   
+    }
+    public function talentAccountPage(){
+        return view('pages.talentAccountPage');
+    }
 }

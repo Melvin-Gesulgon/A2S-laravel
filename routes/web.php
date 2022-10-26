@@ -16,6 +16,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', 'App\Http\Controllers\PagesController@goToPage');
 Route::get('/about', 'App\Http\Controllers\PagesController@about');
 Route::get('/search', 'App\Http\Controllers\PagesController@search');
+Route::get('/jobPost', 'App\Http\Controllers\PagesController@jobPost');
+Route::get('/apply', 'App\Http\Controllers\PagesController@apply');
+Route::get('/talent-account-page', 'App\Http\Controllers\PagesController@talentAccountPage');
 
 // Route::get('/', function () {
 //     return view('welcome');

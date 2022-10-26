@@ -101,11 +101,11 @@
                         </div>
                     </div>
                     <div id="jobresult-btn">
-                        <a href="jobpost.html"class="orangebutton regular nlw">Apply</a>
+                        <a href="/jobPost"class="orangebutton regular nlw">Apply</a>
                     </div>
                 </div>
 
-                <div class="search-jobcards" id="engineer-1" >
+                {{-- <div class="search-jobcards" id="engineer-1" >
                     <div id="jobresult-logo">
                         <div>
                             <h2>Engineer IV</h2>
@@ -126,9 +126,9 @@
                     <div id="jobresult-btn">
                         <a href="jobpost.html"class="orangebutton regular nlw">Apply</a>
                     </div>
-                </div>
+                </div> --}}
 
-                <div class="search-jobcards" id="engineer-2">
+                {{-- <div class="search-jobcards" id="engineer-2">
                     <div id="jobresult-logo">
                         <div>
                             <h2>Engineer II</h2>
@@ -239,8 +239,8 @@
                         </div>
                     </div>
                     <div id="jobresult-btn">
-                        <a href="jobpost.html"class="orangebutton regular nlw">Apply</a>
-                    </div>
+                        <a href="/jobPost"class="orangebutton regular nlw">Apply</a>
+                    </div> --}}
                 </div>
             </div>
         </div>
